@@ -1,6 +1,7 @@
-#Este script recoge el código con el que se generan los gráficos.
-#Se usan los conjuntos de datos Tmax.data (Soria), Tmax.dataZ (Zaragoza) y
-#Tmax.dataB (Bilbao).
+#Este script recoge el código con el cual se generan los gráficos correspondientes al Capítulo 4 de resultados del TFG:
+#Modelos bayesianos para series temporales climáticas.
+#Se usan los conjuntos de datos Tmax.data (Soria), Tmax.dataZ (Zaragoza) y Tmax.dataB (Bilbao).
+#Dichas series se pueden descargar de la base de datos ECA&D (https://www.ecad.eu/).
 
 #Cargar los datos
 setwd("C:/Users/Javier/Desktop/TFG")
