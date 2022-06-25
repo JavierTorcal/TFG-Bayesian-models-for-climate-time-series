@@ -1,5 +1,5 @@
 # TFG: Bayesian models for climate time series
-Modelos bayesianos para series temporales climáticas
+
 The main objective of this work is to develop statistical models and fit the series of local daily maximum temperature (T.máx.) in three Spanish observatories. The interest lies not only in characterizing the effect of global warming in a daily scale on the mean temperature but also in reflecting that effect on its variability. The methodology employed is based on the work by Castillo-Mateo et al. \cite{Castillo-Mateo.et.al.22.a} who suggested using the Bayesian framework, and more specifically hierarchical models, to make inferences about the distribution of T.máx. in Aragón.
 
 
