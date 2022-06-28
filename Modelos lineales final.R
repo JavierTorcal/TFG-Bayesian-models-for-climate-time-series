@@ -113,4 +113,4 @@ summary(lm.var7.step.B)
 #Coeficientes de los parámetros con 2 cifras significativas
 signif(coefficients(lm.var7.step.SO),2)
 signif(coefficients(lm.var7.step.Z),2)
-signif(coefficients(model7.B),2)
+signif(coefficients(lm.var7.step.B),2)
